@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.loginmain{
+	width:1200px;
+	height: 960px;
+	border: 1px solid #888;
+
+	display: block;
+}
+
+.loginwrap{
+	width:380px;
+	height:720px;
+	margin: auto;
+    display: block;
+	
+}
+
+.loginmain_title_1{
+	width: 190px;
+	height:24px;
+	margin: auto;
+    display: block;
+    background-image: url(D:\pms\study\pms_wms\mvcProj\src\main\webapp\include\img\catnab.jpg);
+}
+
+
+.font_h1_1{
+	font-family: Dotum;
+}
+
+.backBtn{
+	
+	background-image: url(catnab.jpg);
+    background-size: 30px;
+}
+
+.loginbannersec{
+	width: 380px;
+	height: 135px;
+	display: block;
+	margin: 0 auto;
+}
+
+.memberloginsec{
+	
+}
