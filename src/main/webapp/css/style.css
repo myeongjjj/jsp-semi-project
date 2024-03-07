@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*screens 각자 페이지(화면)에 적용되는 css import하는 구간*/
+@import "./screens/orderDetail.css"
+
+/*conpenents 헤더 푸터 같이 특정 구역에만 적용되는 것*/
+
+
+/*전 범위에서 적용되는 공통되는 것만 style에 직접 추가*/
