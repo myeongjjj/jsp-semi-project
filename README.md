@@ -3,6 +3,10 @@
 JSP, Servlet을 활용한 세미 프로젝트
 <br/>
 
+## 회고   
+https://zuzooclub.tistory.com/category/Project
+
+
 ## 개발 기간
 2024.02.05 ~ 2024.02.16
 <br/>
@@ -106,6 +110,31 @@ JSP, Servlet을 활용한 세미 프로젝트
 
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/50ef6358-e7e9-4e7b-88a4-dc299d6cb6c9)
 
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/a5148db3-4d21-4915-b2f9-9d1db12dbe09)
+
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e5cc90fa-0927-4ac7-90a2-d9d5cbf8094d)
+
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e6c00263-1d91-4b7a-91fb-2b056c950099)
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/0ff1ac53-3276-4fa6-9354-02b33f50a1f3)
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/57f3b9f8-341e-4616-84d4-e9add82d5bdd)
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/de19fbed-032d-49e3-a51c-054b09c04b45)
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/3b6b3b35-0b6c-4a45-a98f-ced38b7c149e)
+
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/32aaf8b9-09f9-4868-941b-267a1b4409ae)
 
 
 
