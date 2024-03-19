@@ -18,7 +18,7 @@ JSP, Servlet을 활용한 세미 프로젝트
 ### 벤치마킹
 커피창고 :  https://coffeecg.com/index.html 
 
-
+***
 ## 역할분담
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/433e472f-69b1-4e82-a594-ed9af1282f3e)
 
