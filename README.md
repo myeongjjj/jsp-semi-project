@@ -44,7 +44,16 @@ JSP, Servlet을 활용한 세미 프로젝트
 
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e05e2afd-9d6c-4d30-a407-7b7012a46a58)
 
-![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e68407d7-2e1a-45fd-af92-d6aeaeee2d40)
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e68407d7-2e1a-45fd-af92-d6aeaeee2d40)   
+
+
+
+
+<h2>회원</h2>
+
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/e8832bfb-0557-462e-b0bd-d86cce461ddc)
+
+         
 
 
 
