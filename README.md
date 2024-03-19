@@ -24,5 +24,11 @@ JSP, Servlet을 활용한 세미 프로젝트
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/433e472f-69b1-4e82-a594-ed9af1282f3e)
 
 
+## 적용 기술
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/da545dd0-f6c7-4a4e-8e40-be443a881498)
+
+## 개발 도구
+![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/3d717770-d37e-491d-af5f-829efb30bdb8)
+
 
 
