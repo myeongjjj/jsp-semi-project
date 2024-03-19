@@ -35,6 +35,7 @@ JSP, Servlet을 활용한 세미 프로젝트
 
 <h1>시연 화면</h1>
 <h2>비회원</h2>
+
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/1162fa91-9e22-45ad-ab5c-348d345d3721)
 
 ![image](https://github.com/myeongjjj/jsp-semi-project/assets/155945022/638638f1-3860-4001-a017-de6c0920ba07)
