@@ -3,8 +3,7 @@
 JSP, Servlet을 활용한 세미 프로젝트
 <br/>
 
-## 회고   
-https://zuzooclub.tistory.com/category/Project
+
 
 
 ## 개발 기간
